@@ -1,6 +1,6 @@
 Judul Proyek: ini adalah WATCHIT, saya membuat aplikasi website ini mendapat referensi dan ide ketika menonton netflix, aplikasi website ini juga seperti netflix bisa menampilkan film apa saja.
 
-Deskripsi Projek: Aplikasi website WATCHIT ini berbasis HTML, CSS (saya menggunakan framework tailwind css dan react vite), dan JavaScript untuk membuka tab halaman film dan bisa mencari film yang di ingin kan di search bar.
+Deskripsi Projek: Aplikasi website WATCHIT ini berbasis HTML, CSS (saya menggunakan framework tailwind css dan react vite), dan JavaScript untuk membuka tab halaman film dan bisa mencari film yang di ingin kan di search bar, dan saya menggunakan API key dari TMDB (The Movie DataBase).
 
 Tangkapan layar (screenshot aplikasi website WATCHIT)
 
